@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PowerMonitor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_powermonitorenabler">PowerMonitorEnabler</string>
+    <string name="switch_title">PowerMonitor Status: </string>
+    <string name="switch_enable">Enable</string>
+    <string name="switch_disable">Disable</string>
+</resources>
