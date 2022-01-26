@@ -1,2 +1,2 @@
 # PowerMonitor
- For live user test and monitor battery status.
+ For live user test and monitor smartphone project battery status.
