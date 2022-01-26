@@ -1,2 +1,2 @@
 # PowerMonitor
- For live user test and monitor smartphone project battery status.
+ Android apk for live user to test and monitor smartphone project battery status.
